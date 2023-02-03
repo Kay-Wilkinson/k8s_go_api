@@ -18,8 +18,8 @@ func ListFactsAsTemplate(c *fiber.Ctx) error {
     database.DB.Db.Find(&facts)
 
     return c.Render("index", fiber.Map{
-        "Title": "List of Trivia",
-        "Subtitle": "This is just a test",
+        "Title": "Demo Go/Fiber Trivia App",
+        "Subtitle": "This is just a test build",
         "Facts": facts, //send fact data from db to view
     })
 }

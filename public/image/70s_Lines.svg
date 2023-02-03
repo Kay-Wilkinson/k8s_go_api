@@ -1,0 +1,35 @@
+<svg width="566" height="585" viewBox="0 0 566 585" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="70s Lines (2) 1" clip-path="url(#clip0)">
+<rect width="566" height="585" fill="white"/>
+<g id="Group">
+<g id="Group_2">
+<g id="Group_3">
+<path id="Vector" d="M0 0H566V585H0V0Z" fill="#F8EBD6"/>
+</g>
+<g id="Brown Line">
+<path id="Vector_2" d="M218.078 292.299L206.652 379.391L207.828 585L93.9825 583.492L93.39 379.391H94.5043L171.012 291.659V-0.859222H218.476L218.175 292.299H218.078Z" fill="#742E12"/>
+<g id="Group_4">
+<path id="Vector_3" d="M218.078 292.299L206.652 379.391L207.828 585L93.9825 583.492L93.39 379.391H94.5043L171.012 291.659V-0.859222H218.476L218.175 292.299H218.078Z" stroke="#F8EBD6" stroke-width="2.67"/>
+</g>
+</g>
+<g id="Ocre Line">
+<path id="Vector_4" d="M218.768 585L219.352 382.727H296.266V585H218.768ZM219.352 382.727L231.034 294.502H278.198L296.266 382.727H219.352ZM231.034 294.502V0H272.892L278.198 294.502H231.034Z" fill="#D28A2D"/>
+</g>
+<g id="Grey Line">
+<path id="Vector_5" d="M386.994 382.791L386.702 585H303.571L303.27 382.727H303.403L288.598 294.566L283 0H332.224L335.762 294.566L387.144 382.791H386.994Z" fill="#BFBFA2"/>
+<g id="Group_5">
+<path id="Vector_6" d="M386.994 382.791L386.702 585H303.571L303.27 382.727H303.403L288.598 294.566L283 0H332.224L335.762 294.566L387.144 382.791H386.994Z" stroke="#F8EBD6" stroke-width="2.67"/>
+</g>
+</g>
+<g id="Teal Line">
+<path id="Vector_7" d="M491.544 381.603L492.464 585.155L394.007 585.146L393.547 382.023H393.786L345.074 294.346H344.022L340.484 -0.155365H387.179L391.177 293.222H391.814L491.076 381.603H491.544Z" fill="#2F6C68"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="566" height="585" fill="white"/>
+</clipPath>
+</defs>
+</svg>
